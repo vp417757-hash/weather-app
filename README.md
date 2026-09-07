@@ -14,7 +14,7 @@ The main objective of this project is to design a simple, clean, and user-friend
 Home / Current Weather Screen
 
 
-<img width="440" height="956" alt="iPhone 16   17 Pro Max - 1" src="https://github.com/user-attachments/assets/b1018d20-0f08-4fff-8719-efc428e32679" />
+<img width="440" height="956" alt="iPhone 16   17 Pro Max - 1 (1)" src="https://github.com/user-attachments/assets/b7b747ab-cf17-484d-aa84-c858b9795bca" />
 
 
 Weekly Forecast
